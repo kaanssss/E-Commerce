@@ -1,5 +1,5 @@
 
-![2](https://github.com/user-attachments/assets/aede788e-8244-4501-b438-ff587befb19d)
+![2](https://github.com/user-attachments/assets/486ddc5d-7fb4-4003-8661-b7b756904ce6)
 
 Project Description: This SwiftUI and Firebase based e-commerce application offers a modern and innovative shopping experience that allows users to discover, review and easily order fashion products.
 
